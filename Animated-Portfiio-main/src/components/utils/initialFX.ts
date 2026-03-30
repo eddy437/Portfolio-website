@@ -1,4 +1,4 @@
-import { SplitText } from "gsap-trial/SplitText";
+import { SplitText } from "./freeSplitText";
 import gsap from "gsap";
 import { lenis } from "../Navbar";
 
